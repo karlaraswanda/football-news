@@ -35,7 +35,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "https://pbp.cs.ui.ac.id/karla.ameera/footballnews"
+    "karla-ameera-footballnews.pbp.cs.ui.ac.id"
 ]
 
 # Application definition
